@@ -1,0 +1,48 @@
+#border {
+    border-style: solid;
+    border-radius: 1px;
+    color:black;
+    position: absolute;
+    left:10%;
+    top:10%;
+    width: 80%;
+    height: 80%;
+    min-height: 620px;
+    min-width: 700px;
+}
+
+#title {
+    text-align: center;
+}
+
+#innerBox {
+    border-style: dotted;
+    border-radius: 1px;
+    color:black;
+    position: absolute;
+    left:10%;
+    top:10%;
+    width: 80%;
+    height: 80%;
+
+}
+
+#addButton{
+    position: relative;
+    top:80%;
+    left:40%;
+}
+
+#name1{
+    position: relative;
+    top:20%;
+}
+#text {
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: inherit;
+    font-size: 2em;
+}
