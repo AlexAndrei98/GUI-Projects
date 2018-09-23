@@ -33,10 +33,6 @@
     left:40%;
 }
 
-#name1{
-    position: relative;
-    top:20%;
-}
 #text {
     position: relative;
     text-align: center;
@@ -44,5 +40,5 @@
     margin-top: 0px;
     margin-bottom: 0px;
     line-height: inherit;
-    font-size: 2em;
+    font-size: 1em;
 }
